@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/web-frontend-react/static/css/main.c6b0de80.css",
-    "main.js": "/web-frontend-react/static/js/main.8e73ba1e.js",
-    "static/media/volunteer-sign.jpg": "/web-frontend-react/static/media/volunteer-sign.551ad07d8888ef324abf.jpg",
-    "static/media/ffi_wordart.png": "/web-frontend-react/static/media/ffi_wordart.82b2639b481cd44ba2ec.png",
-    "static/media/ism_logo.png": "/web-frontend-react/static/media/ism_logo.5dc78b7ce22b4f5c8dba.png",
-    "static/media/logo.png": "/web-frontend-react/static/media/logo.63f4c2bf2eb99d62d6a1.png",
-    "static/media/slick.svg": "/web-frontend-react/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/web-frontend-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/web-frontend-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/web-frontend-react/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/web-frontend-react/index.html",
-    "main.c6b0de80.css.map": "/web-frontend-react/static/css/main.c6b0de80.css.map",
-    "main.8e73ba1e.js.map": "/web-frontend-react/static/js/main.8e73ba1e.js.map"
+    "main.css": "/static/css/main.c6b0de80.css",
+    "main.js": "/static/js/main.8e73ba1e.js",
+    "static/media/volunteer-sign.jpg": "/static/media/volunteer-sign.551ad07d8888ef324abf.jpg",
+    "static/media/ffi_wordart.png": "/static/media/ffi_wordart.82b2639b481cd44ba2ec.png",
+    "static/media/ism_logo.png": "/static/media/ism_logo.5dc78b7ce22b4f5c8dba.png",
+    "static/media/logo.png": "/static/media/logo.63f4c2bf2eb99d62d6a1.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c6b0de80.css.map": "/static/css/main.c6b0de80.css.map",
+    "main.8e73ba1e.js.map": "/static/js/main.8e73ba1e.js.map"
   },
   "entrypoints": [
     "static/css/main.c6b0de80.css",
