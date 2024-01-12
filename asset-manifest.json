@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-frontend-react/static/css/main.9c3cecb9.css",
-    "main.js": "/web-frontend-react/static/js/main.a88832d7.js",
+    "main.css": "/web-frontend-react/static/css/main.c6b0de80.css",
+    "main.js": "/web-frontend-react/static/js/main.8e73ba1e.js",
     "static/media/volunteer-sign.jpg": "/web-frontend-react/static/media/volunteer-sign.551ad07d8888ef324abf.jpg",
     "static/media/ffi_wordart.png": "/web-frontend-react/static/media/ffi_wordart.82b2639b481cd44ba2ec.png",
     "static/media/ism_logo.png": "/web-frontend-react/static/media/ism_logo.5dc78b7ce22b4f5c8dba.png",
@@ -11,11 +11,11 @@
     "static/media/slick.ttf": "/web-frontend-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/web-frontend-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/web-frontend-react/index.html",
-    "main.9c3cecb9.css.map": "/web-frontend-react/static/css/main.9c3cecb9.css.map",
-    "main.a88832d7.js.map": "/web-frontend-react/static/js/main.a88832d7.js.map"
+    "main.c6b0de80.css.map": "/web-frontend-react/static/css/main.c6b0de80.css.map",
+    "main.8e73ba1e.js.map": "/web-frontend-react/static/js/main.8e73ba1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c3cecb9.css",
-    "static/js/main.a88832d7.js"
+    "static/css/main.c6b0de80.css",
+    "static/js/main.8e73ba1e.js"
   ]
 }
