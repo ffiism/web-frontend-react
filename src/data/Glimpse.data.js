@@ -78,3 +78,24 @@ export const Escape = [
         image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
     }
 ]
+export const umeedImages = [
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+    },
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+    },
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+    },
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+    },
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+    },
+    {
+        image: "https://ik.imagekit.io/ffiism/default-image.jpg?updatedAt=1705046798969"
+    }
+
+]

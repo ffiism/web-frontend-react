@@ -10,6 +10,7 @@ import Footer from "../components/Footer.component";
 import Fade from 'react-reveal/Fade';
 import Timeline from "../components/Timeline.component";
 import Glimpse from "../components/Glimpse.component";
+import Umeed from "./Umeed.page";
 
 export default function Landing() {
     const [width, setWidth] = useState(window.innerWidth);
@@ -47,6 +48,11 @@ export default function Landing() {
                     <Element name="gallery" >
                         <Fade bottom>
                             <Glimpse chapter="All" color="#374063" />
+                        </Fade>
+                    </Element>
+                    <Element name="umeed" >
+                        <Fade bottom>
+                            <Umeed />
                         </Fade>
                     </Element>
                     <Footer bgColor="#c1c8e4" />

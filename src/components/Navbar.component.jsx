@@ -30,6 +30,7 @@ export default function Navbar() {
                     <Link to="initiatives" containerId="app-wrapper" spy={true} smooth={true} duration={500} className="ml-5 cursor-pointer">Initiatives</Link>
                     <Link to="timeline" containerId="app-wrapper" spy={true} smooth={true} duration={500} className="ml-5 cursor-pointer">TimeLine</Link>
                     <Link to="gallery" containerId="app-wrapper" spy={true} smooth={true} duration={500} className="ml-5 cursor-pointer">Gallery</Link>
+                    <Link to="umeed" containerId="app-wrapper" spy={true} smooth={true} duration={500} className="ml-5 cursor-pointer">Umeed</Link>
                 </div>
             </div>
             {sidebarActive &&
@@ -40,6 +41,7 @@ export default function Navbar() {
                             <Link to="initiatives" containerId="app-wrapper" className="m-2">Initiatives</Link>
                             <Link to="timeline" containerId="app-wrapper" className="m-2">TimeLine</Link>
                             <Link to="gallery" containerId="app-wrapper" className="m-2">Gallery</Link>
+                            <Link to="umeed" containerId="app-wrapper" className="m-2">Umeed</Link>
                         </div>
                     </div>
                 </div>
