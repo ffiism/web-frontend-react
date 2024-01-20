@@ -94,7 +94,7 @@ export default function Umeed() {
                 <Fade top>
                     <h2 className="mt-5 md:mt-10 pt-10 mb-3 mx-4 text-5xl md:text-8xl font-bold tracking-tighter" style={{ color: "#374063" }}>Umeed</h2>
                 </Fade>
-                <p className="mx-6 text-lg text-justify" style={{ color: "#374063" }}>Fast Forward India (FFI) is a unique effort and an initiative undertaken by the students of IIT(ISM) Dhanbad. This is an organization completely managed and administered by the young and enthusiastic students of the institution. Creative and powerful ways are implemented to tackle problems of the millions of underprivileged people in India. The organization conducts blood donation camps, imparts basic computer and English education, and numerous careers counseling sessions in schools to help the deprived students shape their future.</p>
+                <p className="mx-6 text-lg text-justify" style={{ color: "#374063" }}>Fast Forward India (FFI), a student-led initiative at IIT(ISM) Dhanbad, is dedicated to addressing the challenges faced by the underprivileged in India through innovative solutions. Notably, FFI orchestrated a record-breaking mega blood donation drive, receiving 1011 units, showcasing their unwavering commitment. The organization, guided by values of integrity, compassion, empowerment, and sustainability, envisions a society where everyone has access to education, healthcare, and opportunities for personal and professional growth. FFI operates projects like BLOODLINE, JAGRITI, DISHA, and ESCAPE to raise awareness, empower students, provide career guidance, and enhance communication skills. UMEED, an annual celebration, attracts over 1000 students, fostering inclusivity and empowerment, particularly for underprivileged students. The event features various competitions, including art, dance, scientific innovation, debates, quizzes, music, and a strategic game called SHAY-AUR-MAAT. Overall, FFI strives to make a positive impact on society by bridging the gap between potential and opportunity.</p>
             </div>
             {/* events */}
             <Slider {...settings}>
@@ -110,7 +110,7 @@ export default function Umeed() {
                 )}
             </Slider>
             {/* image slider */}
-            {/* <Fade bottom>
+            <Fade bottom>
                 <Slider {...imageSliderSettings} className="m-2">
                     {allData.map(image =>
                         <div key={image.image} className="m-2 p-2">
@@ -118,7 +118,7 @@ export default function Umeed() {
                         </div>
                     )}
                 </Slider>
-            </Fade> */}
+            </Fade>
         </>
     );
 }

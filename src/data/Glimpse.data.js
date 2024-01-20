@@ -80,22 +80,22 @@ export const Escape = [
 ]
 export const umeedImages = [
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.39%20(1).jpeg?updatedAt=1705262117874"
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.40%20(2).jpeg?updatedAt=1705262117833"
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.40%20(1).jpeg?updatedAt=1705262117658"
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.40.jpeg?updatedAt=1705262117654"
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/Escape4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672746303157"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.38.jpeg?updatedAt=1705262116722"
     },
     {
-        image: "https://ik.imagekit.io/ffiism/default-image.jpg?updatedAt=1705046798969"
+        image: "https://ik.imagekit.io/ffiism/WhatsApp%20Image%202024-01-14%20at%2023.58.39.jpeg?updatedAt=1705262116645"
     }
 
 ]
