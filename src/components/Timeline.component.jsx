@@ -121,6 +121,28 @@ export default function Timeline() {
                                             </p>
                                         </div>
                                     </div>
+                                    <div className="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
+                                        <div className="order-1 w-5/12"></div>
+                                        <div className="order-1 w-5/12 px-1 py-4 text-right">
+                                            <p className="mb-3 text-base text-violet-700">2023</p>
+                                            {/* <h4 className="mb-3 font-bold text-lg md:text-2xl">Registration</h4> */}
+                                            <p className="text-sm md:text-base leading-snug text-gray-700 text-opacity-100">
+                                            Awarded for the most blood donations (540+) to PMCH under a felicitation
+                                            program organized by Jharkhand Aids Control Society.
+                                           
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div className="mb-8 flex justify-between items-center w-full right-timeline">
+                                        <div className="order-1 w-5/12"></div>
+                                        <div className="order-1  w-5/12 px-1 py-4 text-left">
+                                            <p className="mb-3 text-base text-violet-700">2023</p>
+                                            {/* <h4 className="mb-3 font-bold text-lg md:text-2xl">Participation</h4> */}
+                                            <p className="text-sm md:text-base leading-snug text-gray-700 text-opacity-100">
+                                            Umeed 2023 witnessed record-breaking participation of over 1000+ students.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
                                 <img className="mx-auto -mt-36 md:-mt-36" src={VolunteerImage} alt="" />
                             </div>

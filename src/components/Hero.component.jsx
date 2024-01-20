@@ -11,7 +11,7 @@ export default function Hero() {
                         <h2 className="mt-5 md:mt-10 pt-10 mb-3 mx-4 text-5xl md:text-8xl font-bold tracking-tighter" style={{ color: "#374063" }}>Changing lives.</h2>
                     </Fade>
                     <p className="mx-6 text-lg text-justify" style={{ color: "#374063" }}>Fast Forward India (FFI) is a unique effort and an initiative undertaken by the students of IIT(ISM) Dhanbad. This is an organization completely managed and administered by the young and enthusiastic students of the institution. Creative and powerful ways are implemented to tackle problems of the millions of underprivileged people in India. The organization conducts blood donation camps, imparts basic computer and English education, and numerous careers counseling sessions in schools to help the deprived students shape their future.</p>
-                    <button className="ml-6 mt-5 rounded-full px-8 py-2 text-white" style={{ background: "#374063" }}>Donate</button>
+                    {/* <button className="ml-6 mt-5 rounded-full px-8 py-2 text-white" style={{ background: "#374063" }}>Donate</button> */}
                 </div>
                 {/* illustration block  */}
                 <div className="flex justify-center items-center mt-20">

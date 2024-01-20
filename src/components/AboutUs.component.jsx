@@ -23,13 +23,32 @@ export default function AboutUs() {
                     </Fade>
                     <Fade bottom>
                         <ul className="mx-5 rounded-lg border-gray-200 w-100 text-gray-900 ">
-                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">More than 370 blood cases were handled by FFI Volunteer in 2019-20.</li>
-                            <li className="px-6 py-2 border-b border-gray-200 w-full">Sachin, a student of FFI classroom program, has got a Job of Computer Operator at the Diamond Hostel, IIT (ISM) Dhanbad.</li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">More than 350 blood cases were handled by FFI Volunteers in 2023.</li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">More than 1000 units of blood were donated through donation camps throughout 2023.</li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Umeed 2023 witnessed record-breaking participation of over 1000+ students from more than 50 schools across the region of Dhanbad and 7 NGOs.
+                            </li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Awarded for the most blood donations (540+) to PMCH under a felicitation program organized by Jharkhand Aids Control Society at Patliputra Medical College and Hospital (PMCH).
+                            </li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Fast Forward India, under the Centre for Societal Mission (CSM) of Indian
+                            Institute of Technology ISM Dhanbad, were awarded 'Yuva-Gaurav- Samman'
+                            by 'Jharia Coalfield Samiti', Dhanbad on 12-January-2020 to mark the Birth
+                            Anniversary of Swami Vivekananda.
+                            </li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">A record 393 units of blood were collected in a single day through BloodDonation Camp in 2023.</li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Awarded by The Indian Red Cross Society PMCH, Dhanbad, and State AIDS
+                            Control Society for the highest number of Blood Donation and Blood Case
+                            Handling for three consecutive years.
+                            </li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Two of Our Volunteers Mr. Brajesh Kumar Meena and Mr. Yogesh Mittal were awarded for their active volunteering in the state of Jharkhand on World Blood Donor Day on 14th june 2023.</li>
+                            <li className="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">Sachin, an FFI classroom student, has got a job as Computer Operator at Diamond Hostel, IIT (ISM), Dhanbad.</li>
+                            {/* <li className="px-6 py-2 border-b border-gray-200 w-full">Sachin, a student of FFI classroom program, has got a Job of Computer Operator at the Diamond Hostel, IIT (ISM) Dhanbad.</li>
                             <li className="px-6 py-2 border-b border-gray-200 w-full">637 units of blood was donated throughout the session 2019-20.</li>
                             <li className="px-6 py-2 border-b border-gray-200 w-full">Umeed 2020 witnessed a record- breaking participation of over 1000+ students from 43 schools all over the region of Dhanbad and 6 NGOs.</li>
                             <li className="px-6 py-2 w-full border-b ">Award for most number of blood donations (540+) to PMCH under a felicitation program organised by Jharkhand Aids Control Society at Patliputra Medical College and Hospital (PMCH).</li>
                             <li className="px-6 py-2 w-full rounded-b-lg">Karma-Jyoti and Fast Forward India, under Centre for Societal Mission (CSM) of Indian Institute of Technology ISM Dhanbad were awarded with 'Yuva-Gaurav- Samman' by 'Jharia Coalfield Samiti', Dhanbad on 12-January-2020 to mark Birth Anniversary of Swami Vivekananda.</li>
-                        </ul>
+                        */}
+
+                        </ul> 
                     </Fade>
                 </div>
             </div >

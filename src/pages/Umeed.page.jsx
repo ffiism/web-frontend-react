@@ -94,7 +94,10 @@ export default function Umeed() {
                 <Fade top>
                     <h2 className="mt-5 md:mt-10 pt-10 mb-3 mx-4 text-5xl md:text-8xl font-bold tracking-tighter" style={{ color: "#374063" }}>Umeed</h2>
                 </Fade>
-                <p className="mx-6 text-lg text-justify" style={{ color: "#374063" }}>Fast Forward India (FFI), a student-led initiative at IIT(ISM) Dhanbad, is dedicated to addressing the challenges faced by the underprivileged in India through innovative solutions. Notably, FFI orchestrated a record-breaking mega blood donation drive, receiving 1011 units, showcasing their unwavering commitment. The organization, guided by values of integrity, compassion, empowerment, and sustainability, envisions a society where everyone has access to education, healthcare, and opportunities for personal and professional growth. FFI operates projects like BLOODLINE, JAGRITI, DISHA, and ESCAPE to raise awareness, empower students, provide career guidance, and enhance communication skills. UMEED, an annual celebration, attracts over 1000 students, fostering inclusivity and empowerment, particularly for underprivileged students. The event features various competitions, including art, dance, scientific innovation, debates, quizzes, music, and a strategic game called SHAY-AUR-MAAT. Overall, FFI strives to make a positive impact on society by bridging the gap between potential and opportunity.</p>
+                <p className="mx-6 text-lg text-justify" style={{ color: "#374063" }}>UMEED is an annual celebration that embodies the very essence of hope. Each year, the spirit of Umeed blossoms anew within the vibrant tapestry of IIT(ISM) Dhanbad. This hallmark event transcends the realm of a mere college festival. It becomes a crucible where aspirations are ignited, talents showcased, and dreams take flight.
+Umeed 2023 witnessed record-breaking participation of over 1000+ students from more than 50 schools across the region of Dhanbad and 7 NGOs. 
+Umeed's true essence lies in its spirit of inclusivity and empowerment. It extends a welcoming hand to underprivileged students from across the region, providing them a platform to shine. 
+</p>
             </div>
             {/* events */}
             <Slider {...settings}>
