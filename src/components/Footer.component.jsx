@@ -91,7 +91,7 @@ export default function Footer(props) {
                     </div>
 
                     <div className="text-center text-gray-700 p-4">
-                        © 2023 Copyright: Fast Forward India
+                        © 2024 Copyright: Fast Forward India
                     </div>
                 </footer >
             }
